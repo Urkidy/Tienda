@@ -1,0 +1,12 @@
+pasos
+
+Tienda online
+-------------
+
+1.- Crear Sitio DW
+2.- Crear una carpeta llamada iamgenes para guardar las imagenes y bajar de google 3 imagenes
+3.- Crear BDD
+4.- Crear principal
+5.- Datos prueba
+6.- Botones de comprar
+7.- Agregar 3 campos hidden
